@@ -9,7 +9,7 @@ I'm Wahyu Pratama a Full Stack Web Developer and I Spend most of time coding to 
 <!-- TODO: Add last video link -->
 
 - :office: I’m currently working as a Freelancer
-- :rocket: The project i'm working on now is [HeyMart](#) (point of sales system)
+- :rocket: The project i'm working on now is [HeyMart](https://github.com/wahyu28/heymart) (point of sales system)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - :black_nib: I mostly use Laravel and Vue JS in my project.
 - 📫 How to reach me: wahyulucky28@gmail.com.
