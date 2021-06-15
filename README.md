@@ -4,7 +4,7 @@ I'm Wahyu Pratama a Full Stack Web Developer and I Spend most of time coding to 
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@wptama_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wptama_)](https://twitter.com/wptama_) [![Linkedin Badge](https://img.shields.io/badge/-wahyu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-pratama-772008b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ7CXYigDTSyKCG3WGbzNHA%3D%3D) [![Mail Badge](https://img.shields.io/badge/-@wptama28-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/wptama28) [![Mail Badge](https://img.shields.io/badge/-wahyu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:wptama28@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@wptama_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wptama_)](https://twitter.com/wptama_) [![Linkedin Badge](https://img.shields.io/badge/-wahyu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-pratama-772008b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ7CXYigDTSyKCG3WGbzNHA%3D%3D) [![Mail Badge](https://img.shields.io/badge/-@wptama28-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/wptama28) [![Mail Badge](https://img.shields.io/badge/-wahyu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:wahyulucky28@gmail.com)
 
 <!-- TODO: Add last video link -->
 
