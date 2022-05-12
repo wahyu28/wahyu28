@@ -14,6 +14,7 @@ I'm Wahyu Pratama a Full Stack Web Developer, I Spend most of time coding and Le
 - :black_nib: I mostly use Laravel and Vue JS in my project.
 - 📫 How to reach me: wahyulucky28@gmail.com.
 - ⚡ Fun fact: I play games (Mobile Legend) and love hunting Food 😆.
+- My Personal Website : https://www.wahyupratama.my.id/
 
 #### Top Technologies
 
@@ -25,4 +26,3 @@ I'm Wahyu Pratama a Full Stack Web Developer, I Spend most of time coding and Le
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/wahyu28/wahyu28/blob/f3e3ba10f0acea88e8fed1568b4842c1c1be7c39/Resume/WAHYU%20PRATAMA_CV.pdf)
 - :email: wahyulucky28@gmail.com
-- :website: https://www.wahyupratama.my.id/
